@@ -1,0 +1,32 @@
+{
+  "keys": {
+    "Mano-V001": {
+      "max_devices": 1,
+      "expiry": "2025-12-31",
+      "ips": [],
+      "owner": "Khách Test 1",
+      "created": "2024-11-10"
+    },
+    "Mano-V002": {
+      "max_devices": 2,
+      "expiry": "2026-06-30",
+      "ips": [],
+      "owner": "Khách VIP 2",
+      "created": "2024-11-10"
+    },
+    "Manotest": {
+      "max_devices": 1,
+      "expiry": "2030-12-31",
+      "ips": [],
+      "owner": "Key Test Dài Hạn",
+      "created": "2024-11-10"
+    },
+    "Mano-VPRO": {
+      "max_devices": 3,
+      "expiry": "2026-01-31",
+      "ips": ["123.45.67.89"],
+      "owner": "Khách Pro - Đã dùng 1/3",
+      "created": "2024-11-10"
+    }
+  }
+}
